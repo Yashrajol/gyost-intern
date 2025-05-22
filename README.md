@@ -3,10 +3,9 @@
   <img src="https://drive.google.com/file/d/1WKjNx6hqs6ljksKn0u5O4UI_3fdaOYLA/view?usp=sharing" alt="Project Gyost Banner" width="100%" />
 </p>
 
-<h1 align="center">⚡ Project Bolt</h1>
+<h1 align="center">⚡ Project G=Yost</h1>
 <h3 align="center">
   A modern web app built using Vite + TypeScript + Tailwind CSS + Supabase <br />
-  by Yash (B.Tech CSE | 2nd Year)
 </h3>
 
 <p align="center">
