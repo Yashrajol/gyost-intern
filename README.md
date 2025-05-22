@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1WKjNx6hqs6ljksKn0u5O4UI_3fdaOYLA/view?usp=drive_link" alt="Project Gyost Banner" width="100%" />
+  <img src="https://drive.google.com/file/d/1WKjNx6hqs6ljksKn0u5O4UI_3fdaOYLA/view?usp=sharing" alt="Project Gyost Banner" width="100%" />
 </p>
 
 <h1 align="center">⚡ Project Bolt</h1>
