@@ -57,7 +57,7 @@ const CourseDetails = ({ courseId, onClose }: CourseDetailsProps) => {
       price: 799,
       duration: "2 months",
       level: "Intermediate",
-      instructor: "Tanvi Deore , Yash Rajole",
+      instructor: "Tanvi Deore",
       description: "Master modern web development with React.js and build professional applications.",
       image: "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=600",
       features: [
@@ -101,7 +101,7 @@ const CourseDetails = ({ courseId, onClose }: CourseDetailsProps) => {
       price: 999,
       duration: "6 months",
       level: "Advanced",
-      instructor: "Amit Kumar",
+      instructor: "Sarthak Sonawane",
       description: "Become a complete full-stack developer with MERN stack expertise.",
       image: "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=600",
       features: [
@@ -151,9 +151,9 @@ const CourseDetails = ({ courseId, onClose }: CourseDetailsProps) => {
     prompt: {
       title: "Prompt Engineering Mastery",
       price: 499,
-      duration: "8 weeks",
+      duration: "2 Months",
       level: "Intermediate",
-      instructor: "Neha Singh",
+      instructor: "Om Dighe",
       description: "Learn to craft effective prompts for AI models and create powerful AI applications.",
       image: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=600",
       features: [
@@ -193,9 +193,9 @@ const CourseDetails = ({ courseId, onClose }: CourseDetailsProps) => {
     programming: {
       title: "Programming Fundamentals",
       price: 699,
-      duration: "12 weeks",
+      duration: "3 Months",
       level: "Beginner",
-      instructor: "Vikram Desai",
+      instructor: "Geetangali Ahire",
       description: "Master C, C++, and Java programming with practical projects.",
       image: "https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&w=600",
       features: [
