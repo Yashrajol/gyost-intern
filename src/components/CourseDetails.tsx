@@ -309,8 +309,8 @@ const CourseDetails = ({ courseId, onClose }: CourseDetailsProps) => {
                     <button 
                       onClick={() => alert("Enrollment coming soon!")} 
                       className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-3 px-6 rounded-lg transition-colors duration-200"
-                    >
-                      Enroll Now
+                    ><a href='https://docs.google.com/forms/d/e/1FAIpQLSdJG4Rt0cBCbMVVOP9w6UGfAgNUnyp1Xlib2LRjMFRxbAV_RQ/viewform?usp=header'>
+                      Enroll Now</a>
                     </button>
                   </div>
 
